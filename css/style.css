@@ -22,11 +22,11 @@ body {
     color: var(--accent-color);
 }
 
-.logo-colortext-header {
+.accent {
     color: var(--logo-black-color)
 }
 
-.logo-colortext-footer {
+.accent-footer {
     color: var(--primary-white-color);
 }
 
