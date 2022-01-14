@@ -54,7 +54,7 @@ body {
 }
 
 /*hero*/
-.hero-tittle {
+.hero-title {
     color: var(--primary-white-color);
 }
 
@@ -64,21 +64,21 @@ body {
 }
 
 /*преимущества*/
-.features .tittle {
+.features .title {
     color: var(--title-text-color);
 }
 
 /*чем мы занимаемся*/
-.job-tittle {
+.job-title {
     color: var(--title-text-color);
 }
 
 /*наша команда*/
-.team-tittle {
+.team-title {
     color: var(--title-text-color);
 }
 
-.team-list .tittle {
+.team-list .title {
     color: var(--title-text-color);
 }
 
@@ -101,7 +101,7 @@ body {
     color: var(--title-text-color)
 }
 
-.projects-list .tittle {
+.projects-list .title {
     color: var(--title-text-color)
 }
 
